@@ -37,33 +37,15 @@
 
 .input__text {}
 
-.input__name {
-    border: none;
-    border-left: 1px solid #000;
-    border-bottom: 1px solid #000;
-
-    width: 170px;
-
-}
+.input__name {}
 
 .input__password-name {}
 
-.input__pass {
-    border: none;
-    border-left: 1px solid #000;
-
-    width: 170px;
-}
+.input__pass {}
 
 .input__mobile-name {}
 
-.input__tel {
-    border: none;
-    border-left: 1px solid #000;
-    border-top: 1px solid #000;
-
-    width: 170px;
-}
+.input__tel {}
 
 
 
