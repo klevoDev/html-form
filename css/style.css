@@ -1,0 +1,44 @@
+.wrapper {}
+
+
+
+.container {}
+
+
+
+.page {}
+
+.page__input {}
+
+
+
+
+.input {}
+
+.input__heading {}
+
+.input__main {}
+
+.input__full-name {}
+
+.input__text {}
+
+.input__name {}
+
+.input__password-name {}
+
+.input__pass {}
+
+.input__mobile-name {}
+
+.input__tel {}
+
+
+
+
+
+/* input {
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+  } */
