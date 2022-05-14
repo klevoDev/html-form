@@ -36,6 +36,56 @@
 
 
 
+.page__checkbox {}
+
+.checkbox {}
+
+.container {}
+
+.checkbox__subheading {}
+
+.checkbox__border {}
+
+.checkbox__html {}
+
+.checkbox__css {}
+
+.checkbox__js {}
+
+.checkbox__php {}
+
+.checkbox__python {}
+
+.checkbox__react {}
+
+.checkbox__angular {}
+
+.checkbox__ajax {}
+
+.checkbox__vue {}
+
+
+
+
+.page__radio {}
+
+.radio {}
+
+.container {}
+
+.radio__subheading {}
+
+.radio__finish {}
+
+.radio__win {}
+
+.radio__almost {}
+
+.radio__midway {}
+
+.radio__failed {}
+
+.radion__fail {}
 
 /* input {
     outline: none;
