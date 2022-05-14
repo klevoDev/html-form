@@ -10,6 +10,18 @@
 
 .page__input {}
 
+.page__file {}
+
+.page__checkbox {}
+
+.page__radio {}
+
+.page__select {}
+
+.page__textarea {}
+
+.page__button {}
+
 
 
 
@@ -23,24 +35,47 @@
 
 .input__text {}
 
-.input__name {}
+.input__name {
+    border: none;
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+
+    width: 170px;
+
+}
 
 .input__password-name {}
 
-.input__pass {}
+.input__pass {
+    border: none;
+    border-left: 1px solid #000;
+
+    width: 170px;
+}
 
 .input__mobile-name {}
 
-.input__tel {}
+.input__tel {
+    border: none;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+
+    width: 170px;
+}
 
 
 
+.file {}
 
-.page__checkbox {}
+.file__subheading {}
+
+.file__border {}
+
+.file__attach {}
+
+
 
 .checkbox {}
-
-.container {}
 
 .checkbox__subheading {}
 
@@ -66,12 +101,7 @@
 
 
 
-
-.page__radio {}
-
 .radio {}
-
-.container {}
 
 .radio__subheading {}
 
@@ -87,8 +117,38 @@
 
 .radion__fail {}
 
-/* input {
-    outline: none;
-    border: 1px solid black;
-    border-radius: 5px;
-  } */
+
+
+.select {}
+
+.select__subheading {}
+
+.select__border {}
+
+.select__success {}
+
+.select__point {}
+
+
+
+.textarea {}
+
+.textarea__subheading {}
+
+.textarea__border {}
+
+.textarea__text {}
+
+.textarea__desc {}
+
+
+
+.button {}
+
+.button__subheading {}
+
+.button__border {}
+
+.button__submit {}
+
+.button__reset {}
